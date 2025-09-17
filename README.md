@@ -2,7 +2,7 @@
 
 Loja virtual simplificada com listagem de produtos, carrinho persistente e checkout simulado.
 
-🔗 **Deploy online:** _adicione aqui o link do Vercel_
+🔗 **Deploy online: https://ecommerce-lite-react.vercel.app/
 
 ## Tecnologias
 React, Vite, TailwindCSS, React Router, Zustand
