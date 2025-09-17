@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "name": "Headset Wave",
+    "price": 249.9,
+    "img": "/products/headset.svg"
+  },
+  {
+    "id": "p2",
+    "name": "Teclado Slim",
+    "price": 199.0,
+    "img": "/products/keyboard.svg"
+  },
+  {
+    "id": "p3",
+    "name": "Mouse Pro",
+    "price": 129.9,
+    "img": "/products/mouse.svg"
+  },
+  {
+    "id": "p4",
+    "name": "Câmera Pocket",
+    "price": 899.0,
+    "img": "/products/camera.svg"
+  }
+]
